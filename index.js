@@ -17,7 +17,7 @@ function addItem(){
     console.log("value= "+ todo.value);
     var textNode = document.createTextNode(item);
 
-    if(item == ""){
+    if(item === ""){
         return false;
         console.log("empty");
     }
