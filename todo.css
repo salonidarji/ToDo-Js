@@ -1,5 +1,6 @@
-.body-class{
-    text-align: center;
-    background-color: black;
-    text-decoration-color: blanchedalmond;
+.body-class {
+  text-align: center;
+  justify-content: center;
+  background-color: #0a3d62;
+  text-decoration-color: blanchedalmond;
 }
